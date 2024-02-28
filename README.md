@@ -44,5 +44,11 @@ go run call-of-duty.go
 <h3><a href="https://t.me/OpenBullet_E/46">Combo List Codm</a></h3>
 
 
+<h3><a href="https://t.me/OpenBullet_E/49"> Config Codm For Codm</a></h3>
 
 
+<h3><a href="https://t.me/OpenBullet_E">Channel Configs and Combo</a></h3>
+
+
+
+@esfelurm

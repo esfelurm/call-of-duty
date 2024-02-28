@@ -37,3 +37,6 @@ git clone https://github.com/esfelurm/call-of-duty
 cd call-of-duty
 go run call-of-duty.go
 ```
+
+
+# combolist: https://t.me/OpenBullet_E
